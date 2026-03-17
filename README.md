@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hola ahí
 
-<!--
-**psrl-1/psrl-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bienvenida a mi perfil 
 
-Here are some ideas to get you started:
+ Hola, soy Paola , pero me pueden decir Paola
+ Estoy aprendiendo y creando cosas en el mundo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Sobre mí
+
+-  Me gusta: Caminar y tomar agua
+-  Intereses: Aprender
+-  Fun fact: Puedo hacer mis ojos virolos 
+
+---
+
+
+## Conecta conmigo
+
+-  Instagram: @pao.lpzpsrl
+- Email: psrl08@gmail.com
+
+---
+
+##  Frase bonita 
+
+> "Hazlo  o no lo hagas." 
+
+---
+
+<p align="center">
+    gracias por visitar mi perfil 
+</p>
