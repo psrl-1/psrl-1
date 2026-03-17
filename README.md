@@ -23,7 +23,7 @@
 
 ---
 
-##  Frase bonita 
+##  Frase 
 
 > "Hazlo  o no lo hagas." 
 
