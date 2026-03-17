@@ -2,7 +2,7 @@
 
 # Bienvenida a mi perfil 
 
- Hola, soy Paola , pero me pueden decir Paola
+ Hola, soy Paola , pero me pueden decir Paola.
  Estoy aprendiendo y creando cosas en el mundo.
 
 ---
